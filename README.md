@@ -12,3 +12,5 @@ https://valor-software.com/ng2-select/
 https://manishjanky.github.io/ngx-select-dropdown/
 
 https://valor-software.com/ng2-select/
+
+https://examples.javacodegeeks.com/enterprise-java/hibernate/hibernate-one-many-example/
